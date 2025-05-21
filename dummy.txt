@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-hi my name is raji
-=======
-hi im raji
->>>>>>> 69278e9518bbf6d7accee3ea57be877d73ef7ae0
